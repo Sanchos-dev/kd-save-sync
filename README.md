@@ -1,2 +1,3 @@
-# kd-save-sync
-Keep Driving two way save sync &amp; backup utility. Nintendo switch and pc
+# Keep Driving Save Sync & Backup Utility
+
+A utility with GUI for bidirectional transfer and automatic patching of Keep Driving game saves between Nintendo Switch and PC (Steam).
